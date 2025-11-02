@@ -6,7 +6,7 @@ function addfive(&$sum){
 $x = 10;
 addfive($x);
 echo $x ;
-
+echo "hello";
 
 
 ?>
