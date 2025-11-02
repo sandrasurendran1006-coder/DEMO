@@ -3,7 +3,7 @@
 function saygreet($name){
 
     echo"hai,$name! . <br>";
-
+    echo "hello";
    
 showage(19);
 
